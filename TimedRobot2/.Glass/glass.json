@@ -1,0 +1,30 @@
+{
+  "NetworkTables": {
+    "LiveWindow": {
+      "Ungrouped": {
+        "Spark[1]": {
+          "open": true
+        },
+        "Spark[2]": {
+          "open": true
+        },
+        "Spark[3]": {
+          "open": true
+        },
+        "open": true
+      },
+      "open": true
+    },
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/Spark[0]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Spark[1]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Spark[2]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Spark[3]": "Motor Controller"
+    }
+  },
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "localhost"
+  }
+}
